@@ -1,5 +1,6 @@
+!pip install pyautogui
+
 import pyautogui
-import pyperclip
 import time
 
 #Hello, my name is lucas, im student of Computer Science. In this code you will see all my networks.

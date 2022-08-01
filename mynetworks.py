@@ -1,5 +1,7 @@
 !pip install pyautogui
 
+#this was made using jupyter/isso foi criado usando jupyter 
+
 import pyautogui
 import time
 

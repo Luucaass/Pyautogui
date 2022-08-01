@@ -1,5 +1,7 @@
 !pip install pyautogui
 
+#this was made using jupyter/isso foi criado usando jupyter
+
 import pyautogui  #import library pyautogui/importa a biblioteca pyautogui
 import time       #import library time/importa a biblioteca time
 

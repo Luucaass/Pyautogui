@@ -3,6 +3,7 @@
 #this was made using jupyter/isso foi criado usando jupyter
 
 import pyautogui  #import library pyautogui/importa a biblioteca pyautogui
+import pyperclip  #import library pyperclip/importa a biblioteca pyperclip
 import time       #import library time/importa a biblioteca time
 
 
